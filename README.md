@@ -1,4 +1,4 @@
-# Kisel
+# Dutch
 <div id="header" align="">
   
 <div id="header" align="center">
@@ -18,7 +18,7 @@
 </div>𝑎𝑏𝑡 𝑚𝑒 ⤵
 
 <br />  <div id="header" align="center">
-  <img src="https://64.media.tumblr.com/0cfad55c3470c80be477c476b23b66fb/3c33525c93f0e152-15/s500x750/0c9b3aaf59e1ae6957de4841c6a4217950308c47.pnj" width="20"/>You can call me whatever you want, my friends call me Kisel | Kisesh | Kiki
+  <img src="https://64.media.tumblr.com/0cfad55c3470c80be477c476b23b66fb/3c33525c93f0e152-15/s500x750/0c9b3aaf59e1ae6957de4841c6a4217950308c47.pnj" width="20"/>You can call me whatever you want
   <br />  <div id="header" align="center">
   <img src="https://64.media.tumblr.com/0cfad55c3470c80be477c476b23b66fb/3c33525c93f0e152-15/s500x750/0c9b3aaf59e1ae6957de4841c6a4217950308c47.pnj" width="20"/> I'm 18 y.o and I make friends easily, my MBTI type is 
   INTP-T
